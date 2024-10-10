@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Footwear-website-react/static/css/main.22584bca.css",
+    "main.js": "/Footwear-website-react/static/js/main.f6680624.js",
+    "index.html": "/Footwear-website-react/index.html",
+    "main.22584bca.css.map": "/Footwear-website-react/static/css/main.22584bca.css.map",
+    "main.f6680624.js.map": "/Footwear-website-react/static/js/main.f6680624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22584bca.css",
+    "static/js/main.f6680624.js"
+  ]
+}
